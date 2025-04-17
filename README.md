@@ -1,15 +1,22 @@
-# Image Gallery Project
+# 🖼️ Image Gallery Project
 
-## Description
-A basic interactive image gallery built using HTML, CSS, and JavaScript. Clicking an image shows an alert with the image description.
+## 📌 Description
+A beginner-friendly interactive image gallery built with HTML, CSS, and JavaScript. It lets users click on images to view their descriptions.
 
-## Technologies Used
+## 🛠️ Tech Stack
 - HTML5
-- CSS3
-- JavaScript
+- CSS3 (Flexbox)
+- JavaScript (DOM Manipulation)
 
-## How to Run
-Just open `index.html` in your browser.
+## 🚀 How to Use
+1. Clone the repo
+2. Open `index.html` in your browser
+3. Click on any image to interact
 
-## Author
-Daniel Gathinwa
+## 🤓 What I Learned
+- DOM manipulation using vanilla JS
+- Layout styling using Flexbox
+- Basic Git & GitHub workflow
+
+## 🙋🏾‍♂️ Author
+Daniel Gathinwa | [GitHub Profile](https://github.com/DGathinwa)
